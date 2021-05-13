@@ -5,3 +5,21 @@ h1.header-h1
 	font-family: "Audiowide";
 	letter-spacing: 0.5px;
 }
+
+li
+{
+	font-family: "Audiowide";
+}
+
+h4
+{
+	color: black;
+	font-family: "Audiowide";
+}
+
+h6
+{
+	color: black;
+	font-family: "Audiowide";
+	font-size: 10px;
+}
